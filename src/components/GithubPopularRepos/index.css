@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.GithubPopularRepos-bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ul-cont {
+  display: flex;
+  list-style-type: none;
+}
+
+.ul-cont2 {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+
+.main-heading {
+  font-family: 'Lobster';
+  color: #0f172a;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.products-loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.failure-view {
+  height: 300px;
+  width: 300px;
+}
